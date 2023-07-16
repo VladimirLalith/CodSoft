@@ -1,8 +1,8 @@
 # CodSoft
-Repository for Intership
+Repository for Internship
 
 Python Task 1
-A project based on a Calculator.
+(A project based on a Calculator)
 
 This project is a simple demonstration of how to calculator functions and how it can be created
 using Python with tkinter.
